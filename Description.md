@@ -1,5 +1,5 @@
 
-### Customer Churn Prediction Model
+# Customer Churn Prediction Model
 
 This project focuses on building an Artificial Neural Network (ANN) to predict customer churn for a given business. Customer churn refers to when customers stop doing business with a company. Accurately predicting churn helps businesses identify customers likely to leave and take proactive steps to retain them.
 
