@@ -498,5 +498,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details
 <div align="center">
 
 Made with ❤️ for the data science community
+⭐ If you found this project helpful, please consider giving it a star!
 
 </div>
